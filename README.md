@@ -5,6 +5,7 @@ In the course, we learn a lot of different services in Azure cloud that uses for
 ## Azure Active Directory (SSO, IAM)
 
 | Azure Service | AWS | Google Cloud |
+| --- | --- | --- |
 | Azure AD | AWS IAM Identity | Google Cloud Identity |
 
 ### Overview
@@ -14,7 +15,9 @@ In the course, we learn a lot of different services in Azure cloud that uses for
 -	**Google Cloud Identity**: Google IAM service for managing users, groups, and policies
 
 ### Core Features
+
 | Feature | Azure AD | AWS IAM Identity | Google Cloud Identity |
+| --- | --- | --- | --- |
 | SSO | have | have | have |
 | MFA | have | have | have |
 | RBAC | have | have | have |
@@ -41,6 +44,7 @@ In the course, we learn a lot of different services in Azure cloud that uses for
 ## Azure Monitor & Log Analytics
 
 | Azure Service | AWS | Google Cloud |
+| --- | --- | --- |
 | Azure Monitor | Amazon CloudWatch | Google Cloud Operations Suite |
 
 ### Overview
@@ -52,6 +56,7 @@ In the course, we learn a lot of different services in Azure cloud that uses for
 ### Core Features
 
 | Feature | Azure Monitor | CloudWatch | Google Cloud Operations |
+| --- | --- | --- | --- |
 | Log Analytics | have | CloudWatch Logs | Cloud Logging |
 | Metrics & Alerts | have | have | have |
 | Distributed Tracing | Application Insights | X-Ray | Cloud Trace |
@@ -74,6 +79,7 @@ In the course, we learn a lot of different services in Azure cloud that uses for
 ## Azure Policy
 
 | Azure Service | AWS Equivalent | Google Cloud |
+| --- | --- | --- |
 | Azure Policy | AWS Config | Google Cloud Security Command Center (SCC) |
 
 ### Overview
@@ -85,6 +91,7 @@ In the course, we learn a lot of different services in Azure cloud that uses for
 ### Core Features
 
 | Feature | Azure Policy | AWS Config | SCC |
+| --- | --- | --- | --- |
 | Compliance Checks | have | have | have | 
 | Auto-Remediation | have | AWS System Manager | have | 
 | Custom Policies | have | have | have |
@@ -106,6 +113,7 @@ In the course, we learn a lot of different services in Azure cloud that uses for
 ## Microsoft Defender for Cloud
 
 | Azure Service | AWS Equivalent | GCP Equivalent |
+| --- | --- | --- |
 | Defender for Cloud | AWS Security Hub | Google Cloud Security Command Center (SCC) |
 
 ### Overview
@@ -117,6 +125,7 @@ In the course, we learn a lot of different services in Azure cloud that uses for
 ### Core Features
 
 | Feature | Defender for Cloud | AWS Security Hub | Google Cloud Security Command Center (SCC) |
+| --- | --- | --- | --- |
 | Vulnerability Scanning | have | have | have | 
 | Threat Detection | have | have | have | 
 | Compliance Dashboards | have | have | have |
@@ -130,6 +139,7 @@ In the course, we learn a lot of different services in Azure cloud that uses for
 ## Microsoft Sentinel (SIEM/SOAR)
 
 | Service | AWS Equivalent | GCP Equivalent |
+| --- | --- | --- |
 | Microsoft Sentinel | Amazon GuardDuty + AWS Detective | Google Chronicle |
 
 ### Overview
@@ -146,7 +156,8 @@ In the course, we learn a lot of different services in Azure cloud that uses for
 
 ## Summary table
 
-| Feature | Azure AD | AWS IAM Identity | Google Cloud Identity |
+| Azure AD | AWS IAM Identity | Google Cloud Identity |
+| --- | --- | --- |
 | Azure AD | AWS IAM Identity | Google Cloud Identity |
 | Azure Monitor | Amazon CloudWatch | Google Cloud Operations Suite |
 | Azure Policy | AWS Config | Google Cloud Security Command Center (SCC) |
