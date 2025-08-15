@@ -187,8 +187,9 @@ In the course, we learn a lot of different services in Azure cloud that uses for
 
 ## Summary table
 
-| **Azure AD** | **AWS IAM Identity** | **Google Cloud Identity** |
+| Azure | AWS | Google Cloud |
 | --- | --- | --- |
+| Azure AD | AWS IAM Identity | Google Cloud Identity |
 | Azure Monitor | Amazon CloudWatch | Google Cloud Operations Suite |
 | Azure Policy | AWS Config | Google Cloud Security Command Center (SCC) |
 | Defender for Cloud | AWS Security Hub | Google Cloud Security Command Center (SCC) |
