@@ -171,7 +171,7 @@ In the course, we learn a lot of different services in Azure cloud that uses for
 
 -	**Azure Sentinel**: gather logs from Azure resources, Office 365 and third-party systems from Microsoft and use AI for threat detection with pre-built playbooks for automated response 
 -	**Amazon Guard Duty**: analyzes VPC, DNS, and cloud Trail logs with machine learning to find compromised instances, crypto-mining and suspicious API calls.
--	**Google Chronicle (GCP)**: it is a large scale security analytics platform that is build on Big Query the enables fast threat hunting across massive datasets with Virus Total integration and YARA-L detection rules
+-	**Google Chronicle (GCP)**: it is a large-scale security analytics platform that is build on Big Query the enables fast threat hunting across massive datasets with Virus Total integration and YARA-L detection rules
 
 ### Pricing Model
 
@@ -187,7 +187,7 @@ In the course, we learn a lot of different services in Azure cloud that uses for
 
 ## Summary table
 
-| Azure AD | AWS IAM Identity | Google Cloud Identity |
+| **Azure AD** | **AWS IAM Identity** | **Google Cloud Identity** |
 | --- | --- | --- |
 | Azure Monitor | Amazon CloudWatch | Google Cloud Operations Suite |
 | Azure Policy | AWS Config | Google Cloud Security Command Center (SCC) |
